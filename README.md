@@ -1,4 +1,4 @@
-# desafio-ewallet
+# desafio-ewally
 
 ## Rodando o desafio
 
